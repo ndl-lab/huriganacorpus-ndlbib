@@ -1,7 +1,7 @@
 # huriganacorpus-ndlbib
 国立国会図書館の書誌データから作成した振り仮名のデータセット
 
-データセットに対するerrata（正誤表）を追加公開しました。(2026/11/25追記)
+**データセットに対するerrata（正誤表）を追加公開しました。(2026/11/25追記)**
 
 https://lab.ndl.go.jp/dataset/huriganacorpus/2026_shosi_dataset_errata.txt
 
